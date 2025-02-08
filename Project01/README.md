@@ -1,0 +1,1 @@
+Run the code in Python environment. Every Python file is named after the question it solves. There's no specific requirement to run the code.
